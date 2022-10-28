@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c0345115-04b8-438a-af52-c5c629f6aa10/deploy-status)](https://app.netlify.com/sites/react-weather-openweather/deploys)
+
+View the site [here on Netlify](https://react-weather-openweather.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
